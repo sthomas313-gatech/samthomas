@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Learn About Sam Thomas
 
 You can use the [editor on GitHub](https://github.com/sthomas313-gatech/samthomas/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
